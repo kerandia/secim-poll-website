@@ -1,5 +1,5 @@
 # secim-poll-website
-This is really super basic poll website for the next presidental election in Turkey.
+This is really super basic poll website for the next presidental election in Türkiye.
 
 
 I have zero knowledge of HTML and I wanted to create a poll website. 
